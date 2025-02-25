@@ -3,10 +3,6 @@ import Calendar from "./Calendar";
 import Wheather from "./Wheather";
 import userImg from "../assets/images/user.jpg";
 import noImg from "../assets/images/no-img.png";
-import blogImg1 from "../assets/images/blog1.jpg";
-import blogImg2 from "../assets/images/blog2.jpg";
-import blogImg3 from "../assets/images/blog3.jpg";
-import blogImg4 from "../assets/images/blog4.jpg";
 
 import axios from "axios";
 import { useEffect, useState } from "react";
